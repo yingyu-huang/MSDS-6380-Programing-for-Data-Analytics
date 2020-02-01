@@ -1,0 +1,38 @@
+[['Result       ' 'Mean' 'std' 'Median']
+ ['Age          ' '39.21' '14.04' '39.0']
+ ['BMI          ' '30.67' '6.1' '30.4']
+ ['BMI_Male     ' '30.95' '6.14' '30.7']
+ ['BMI_Female   ' '30.38' '6.04' '30.1']
+ ['BMI_smoker   ' '30.71' '6.31' '30.45']
+ ['BMI_nonsmoker' '30.65' '6.04' '30.35']
+ ['BMI_SW       ' '30.6' '5.68' '30.3']
+ ['BMI_SE       ' '33.36' '6.47' '33.3']
+ ['BMI_NW       ' '29.2' '5.13' '28.9']
+ ['BMI_NE       ' '29.18' '5.93' '28.9']
+ ['BMI_kids>2   ' '30.68' '5.76' '30.35']]
+Effect of smoking on BMI:  
+  The overall average BMI is 30.67. 
+  The BMI for non-smokers and smokers are 30.65 and 30.71, respectively. 
+  Since the BMI for smokers is slightly higher than for non-smokers, 
+  we can conclude that, though not significantly, 
+  smokers tend to have a higher value of BMI, than non-smokers. 
+Effect of Region on BMI: 
+   The region of southeast, has a somehow 'significantly' higher mean and median in comparison to all the other three regions. 
+   This implies that region does affect BMI values on people.
+Effect of more than 2 children on BMI: 
+  Mean and median BMI for people with more than two children does not differ significantly from the overall mean and median BMI. 
+  So, we conclude that number of children has little effect on people's BMI. 
+The mean BMI of top 20% of population is 32.23 The sd of BMI for top 20% of population is 5.72
+      The mode of top 20% expense for smoking status is 'yes', which is  208
+      The mode of top 20% expense for region is 'southeast', which is  88
+The mean BMI of the bottom 80% of the population is  30.27 The sd of BMI for the bottom 80% of the population  is 6.13
+      The mode of the rest 80% expense for smoking status is 'no', which is  1004
+      The mode of the rest 80% expense for region is 'southeast', which is  276
+Primary reasons for top 20% expenses: 
+      The people in the top 20% of expenses have a significantly higher mean BMI value compared to the rest 80% of the population(32.23 vs 30.27). 
+      And the number of smokers is clearly greater than that of non-smokers among the insurers within the top 20% of expenses(208 vs 60). 
+      It is widely known that, high BMI values and being a smoker tend to lead to higher expenses on medical insurance.
+      For the residing region, it seems that southeast has the largest population because the modes of both top 20% and the rest 80% are 'southeast' in this sample. 
+      Among the top 20%, 88/268 = 32.84%, which is significantly higher than (88+276)/1338 = 27.20% (the overall proportion). 
+      Thus, people living in the southeast region tend to have more expenses on insurance, somehow. 
+      Anyway, to make a scientific conclusion, further statistical tests are necessary.
